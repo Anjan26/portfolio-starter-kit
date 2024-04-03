@@ -71,9 +71,10 @@ export default function Nextra({ Component, pageProps }) {
       path to https://example.com?" Please write a reply to the customer. Feel free to add any
       information about your decision making process after the reply.
    </h4>
-   <p>To redirect the /blog path to https://example.com, you can consider implementing a rewrite rule. More information on this can be found in our documentation at: https://nextjs.org/docs/pages/building-your-application/routing/redirecting#redirects-in-nextconfigjs
-      Utilizing the redirects option in the next.config.js file enables you to redirect incoming request paths to alternative destination paths.
+  <p>To redirect the /blog path to https://example.com, you can consider implementing a rewrite rule. More information on this can be found in our documentation at: <a href="https://nextjs.org/docs/pages/building-your-application/routing/redirecting#redirects-in-nextconfigjs">Here</a>
    </p>
+      <p>      Utilizing the redirects option in the next.config.js file enables you to redirect incoming request paths to alternative destination paths.</p>
+        
    <p>Assiting them with a documentation can be really useful to follow the steps to achieve their use-case. It will reduce their time, effort and thereby enhancing the customer experience and satisfaction of our service on our platform.</p>
    <h4>8. A customer is creating a site and would like their project not to be indexed by search
       engines. Please write a reply to the customer. Feel free to add any information about
