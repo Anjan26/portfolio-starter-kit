@@ -41,7 +41,7 @@ export default function Nextra({ Component, pageProps }) {
       <li>Looking into the records and activity for the customer application.
       </li>
       <li>Possible cause of the issue, such as error logs and souce of the problem.</li>
-      <li>Address and maintaining a timely reponsecadence, so that customer knows that they are being heard.</li>
+      <li>Address and maintaining a timely reponse cadence, so that customer knows that they are being heard.</li>
       <p>I recommend following the action items/steps provided to resolve the issue efficiently. If further clarification is needed, I refer to our documented articles for detailed assistance. Additionally, arranging a video/phone call at their earliest convenience could also help address the problem effectively. Customer feedback is greatly appreciated as it allows us to identify areas for improvement and enhance the overall customer service experience, knowking if my solution was helpful for them. </p>
    </ul>
    <h4>4. When would you choose to use Edge Functions, Serverless Functions, or Edge
@@ -71,7 +71,7 @@ export default function Nextra({ Component, pageProps }) {
       path to https://example.com?" Please write a reply to the customer. Feel free to add any
       information about your decision making process after the reply.
    </h4>
-  <p>To redirect the /blog path to https://example.com, you can consider implementing a rewrite rule. More information on this can be found in our documentation at: <a href="https://nextjs.org/docs/pages/building-your-application/routing/redirecting#redirects-in-nextconfigjs">Here</a>
+  <p>To redirect the /blog path to https://example.com, you can consider implementing a rewrite rule. More information on this can be found in our documentation at:"https://nextjs.org/docs/pages/building-your-application/routing/redirecting#redirects-in-nextconfigjs"
    </p>
       <p>      Utilizing the redirects option in the next.config.js file enables you to redirect incoming request paths to alternative destination paths.</p>
         
